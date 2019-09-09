@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ruophocei.andiel.net/sitemap.xml
